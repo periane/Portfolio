@@ -1,0 +1,26 @@
+.bg-black{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+height: 100%;
+}
+
+.font-div {
+    width: 100%;
+}
+
+@media only screen and (min-width: 2000px){
+  .font-div{
+      padding: 43px 0px!important;
+  }
+}
+.exper{
+    text-align: center;
+}
+.btn {
+    position: relative;
+    display: inline-block;
+    float: right;
+}
